@@ -28,4 +28,7 @@
 
 *Visų studentų vardai, pavardės ir galutiniai balai (pasirinktinai nuo vartotojo ar su mediana, ar su vidurkiu) yra išvedami tvarkingai lentelėje.
 
+Atlikti pataisymai tarp papildymų:
 
+**V0.1 galutinėje versijoje (release) yra sutvarkytas medianos skaičiavimas, kuris buvo klaidingas "V0.1 papildymas(mediana)", "V0.1.2", "V0.1.2Masyvas" subreleasuose.
+**Tarp subreleasų iki releaso yra atlikti nežymūs kodo potvarkiai, ištrintos nereikalingos/blogos eilutės, ištaisytos mažos klaidelės.
