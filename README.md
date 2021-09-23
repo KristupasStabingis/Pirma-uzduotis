@@ -29,5 +29,7 @@
 Atlikti pataisymai tarp papildymų:
 
 **V0.1 galutinėje versijoje (release) yra sutvarkytas medianos skaičiavimas, kuris buvo klaidingas "V0.1 papildymas(mediana)", "V0.1.2", "V0.1.2Masyvas" subreleasuose.
+
 **Tarp subreleasų iki releaso yra atlikti nežymūs kodo potvarkiai, ištrintos nereikalingos/blogos eilutės, ištaisytos mažos klaidelės.
-**Galutiniame kode yra visų prieš tai buvusių subreleasų galimybės.
+
+**Galutiniame kode(V0.1FINALRELEASE) yra visų prieš tai buvusių subreleasų galimybės.
