@@ -8,21 +8,19 @@
 
 *Nuskaitomas studento vardas ir pavardė.
 
-*Automatinė studento namų darbų užklausa: klausiama, kiek namų darbų vartotojas ketina vesti (1-10).
+*Automatinė studento namų darbų užklausa: klausiama, ar vartotojas žino namų darbų skaičių.
 
-**Senesnėse versijose dar yra galimybė vesti ranka studentų pažymius, kai namų darbų kiekis nežinomas.
+**Jei nežino, jis gali ranka vesti pažymius tol, kol konsolėje surinks -1, jei leis pažymius vesti kompiuteriui, jis tokiu atveju sugeneruos tik 10 pažymių.
 
-*Automatiškai sugeneruojamas pasirinktas kiekis namų darbų pažymių.
+**Jei žino, vartotojui leidžia vesti/sugeneruoti tik numatytą namų darbų skaičių.
 
-**Senesnėse versijose galima studentų pažymius vesti ranka.
+*Automatiškai sugeneruojamas ir arba įvedamas ranka pasirinktas kiekis namų darbų pažymių.
 
 *Išrašytas arba sugeneruotas pažymių masyvas yra atspausdinamas didėjimo tvarka, kad būtų galima lengviau pastebėti akimi medianą, be to, matyti visus įvestus pažymius didėjimo tvarka.
 
 *Namų darbai yra laikomi vektoriuje, tačiau viename iš subreleasų atsiranda galimybė juos laikyti ir dinaminiame masyve.
 
-*Automatiškai sugeneruojamas egzamino pažymys, bei išvedamas ekrane.
-
-**Senesnėse versijose galima egzamino pažymį vesti ranka.
+*Automatiškai  arba ranka sugeneruojamas(įvedamas) egzamino pažymys, bei išvedamas ekrane.
 
 *Vartotojas yra klausiamas ar nori galutinį balą matyti suskaičiuotą pagal vidurkį ar pagal medianą.
 
@@ -32,3 +30,4 @@ Atlikti pataisymai tarp papildymų:
 
 **V0.1 galutinėje versijoje (release) yra sutvarkytas medianos skaičiavimas, kuris buvo klaidingas "V0.1 papildymas(mediana)", "V0.1.2", "V0.1.2Masyvas" subreleasuose.
 **Tarp subreleasų iki releaso yra atlikti nežymūs kodo potvarkiai, ištrintos nereikalingos/blogos eilutės, ištaisytos mažos klaidelės.
+**Galutiniame kode yra visų prieš tai buvusių subreleasų galimybės.
