@@ -1,0 +1,8 @@
+pavarde     vardas   ND1  ND2  ND3  ND4  ND5  Egzaminas
+Jonavicius  Albinas   4    5    6    7    9       10
+Polenskus   Sergejus  5    7    3    4    10       7
+Laibevicius Jonas     8    1    2    8     6       8
+Kazlauskas  Aurimas   5    7    4    5    10       5
+Anzelmaitis Fergius   7    8    4    7     5       5   
+Skaismantas Kazys     7    5    7    6     5       2  
+Gaviria     Migel     1    6    2    7     2       6        
