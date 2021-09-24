@@ -34,7 +34,9 @@ Atlikti pataisymai tarp papildymų:
 
 **Galutiniame kode(V0.1FINALRELEASE) yra visų prieš tai buvusių subreleasų galimybės.
 
+
 # 0.2V
 
 *Programoje atsiranda galimybė skaityti studentų duomenis iš txt failo (kursiokai.txt). Vartotojo klausiama, ar šis duomenis ketina vesti pats, ar nori nuskaityti iš txt failo.
+
 ***Pridėtas SRAND().
