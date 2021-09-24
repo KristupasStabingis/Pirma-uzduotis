@@ -33,4 +33,5 @@ Atlikti pataisymai tarp papildymų:
 **Tarp subreleasų iki releaso yra atlikti nežymūs kodo potvarkiai, ištrintos nereikalingos/blogos eilutės, ištaisytos mažos klaidelės.
 
 **Galutiniame kode(V0.1FINALRELEASE) yra visų prieš tai buvusių subreleasų galimybės.
+
 ***Update - pridėtas SRAND() V0.1FINALRELEASE.
