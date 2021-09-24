@@ -102,6 +102,7 @@ void pild(studentas& kint) {
 	float vid = 0;
 	string simbolis;
 	float nd_counter = 0;
+	srand(time(NULL));
 
 	cout << "Iveskite studento varda ir pavarde : "; cin >> kint.vardas >> kint.pavarde;
 	cout << "Ar zinote, kiek namu darbu pazymiu bus? Jei taip, spauskite T, jei ne, spauskite N" << endl;
