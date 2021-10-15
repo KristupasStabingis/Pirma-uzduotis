@@ -2,6 +2,8 @@
 
 # 0.1V
 
+0.1V programa yra "1 Uzduotis" folderyje.
+
 0.1 versijoje yra įdiegtos visos šios numatytos funkcijos:
 
 *Automatinė studentų kiekio užklausa : paklausiama, kiek studentų duomenų vartotojas ketina vesti (1-20 studentų).
