@@ -35,3 +35,8 @@ Atlikti pataisymai tarp papildymų:
 **Galutiniame kode(V0.1FINALRELEASE) yra visų prieš tai buvusių subreleasų galimybės.
 
 ***Update - pridėtas SRAND() V0.1FINALRELEASE.
+
+# V0.3
+
+0.3 versijoje sėkmingai įdiegtas exception handlingas - jei blogai įvesta raidė ar skaičius, kompiuteris praneša, jog įvestis buvo bloga, tas pats veikia su failo skaitymu - jei failas nenuskaitomas, nes jo neranda, tai kompiuteris praneša, jog tokio failo nėra sistemoje.
+Nega to, visos funkcijos yra išskaidytos į .cpp ir header .h failus, o programos veikimas nuo to nepasikeitė.
