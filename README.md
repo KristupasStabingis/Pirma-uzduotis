@@ -33,12 +33,3 @@ Atlikti pataisymai tarp papildymų:
 **Tarp subreleasų iki releaso yra atlikti nežymūs kodo potvarkiai, ištrintos nereikalingos/blogos eilutės, ištaisytos mažos klaidelės.
 
 **Galutiniame kode(V0.1FINALRELEASE) yra visų prieš tai buvusių subreleasų galimybės.
-
-
-# 0.2V
-
-*Programoje atsiranda galimybė skaityti studentų duomenis iš txt failo (kursiokai.txt). Vartotojo klausiama, ar šis duomenis ketina vesti pats, ar nori nuskaityti iš txt failo.
-
-***Pridėtas SRAND().
-
-*Programa klausia, ar studentų failą(txt) norima tiesiog nuskaityti (gauti lentelę su jų vardais, pavardėm, namų darbų pažymiais bei egzamino pažymiu) ar išvesti studentų vardus, pavardes, galutinius pažymius pagal medianą ir vidurkį. Programa pirmąją klausimo dalį atlikti gali, tačiau antrosios, deja,  ne. 
