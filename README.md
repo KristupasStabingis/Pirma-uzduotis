@@ -46,3 +46,13 @@ Atlikti pataisymai tarp papildymų:
 # 0.3V
 
 0.3 versijoje sėkmingai įdiegtas exception handlingas - jei blogai įvesta raidė ar skaičius, kompiuteris praneša, jog įvestis buvo bloga, tas pats veikia su failo skaitymu - jei failas nenuskaitomas, nes jo neranda, tai kompiuteris praneša, jog tokio failo nėra sistemoje. Nega to, visos funkcijos yra išskaidytos į .cpp ir header .h failus, o programos veikimas nuo to nepasikeitė.
+
+# 0.5V
+
+Naujojoje 0.5 versijoje galima nuskaityti studentus iš listo ir taip pat apskaičiuoti kiek laiko užtrunka duomenų nuskaitymas iš failų, kiek laiko užtrunka rūšiavimas į dvi kategorijas. Šioje versijoje taip pat yra buvusių versijų galimybės - vedimas ranka, pažymių automatizavimas, nuskaitymas iš vektoriaus ir t.t, taigi, ši versija apibendrina visas buvusias galimybes ir turi naują - nuskaitymą iš listo.
+Dėl labai ilgų rūšiavimo ir išvedimo į du failus laikų, programa buvo ištestuota su 1000, 10 000, 100 000 studentų sąrašais ( rezultatų nuotraukos įkeltos prie darbo), norint testuoti su didesniu studentų sąrašu, prireiktų kelių dešimčių valandų, 10 000 000 atveju greičiausiai ir dienų. Visuose testuose nustatytas namų darbų skaičius - 5, skaičiuojama pagal vidurkį, o ne pagal medianą ( galima keisti tiek namų darbų skaičių, tiek galutinio balo skaičiavimo būdą, tačiau tų rezultatų nedėjau, nes nemanau, kad yra prasmė).
+Kompiuterio specifikacijos :
+Intel Core i7-10750H CPU @2.6Ghz
+16GB RAM
+512GB SSD
+GTX 1650
