@@ -51,3 +51,7 @@ Atlikti pataisymai tarp papildymų:
 # 1.0V
 
 LIST ir VECTOR konteineriai dabar yra rūšiuojami 2 strategijomis. Veikia ir visos senesnėse versijose buvusios galimybės. Pateikta v1.0 vektoriu vs list 1 ir 2 strategiju analizė.
+![V1 0 bandymai ir analize](https://user-images.githubusercontent.com/91029531/150147006-9a9f65b7-c100-493f-9b0e-90753479ef7a.png)
+
+Iš duomenų galima daryti išvadą, jog antroji strategija yra spartesnė, o tas ryškiai atsispindi stebint didesnius duomenis. Savo ruožtu skirstymo laikas vektoriuje yra žymiai pranašesnis ir našesnis, duomenys yra suskirstomi žymiai sparčiau.
+
