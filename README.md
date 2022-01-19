@@ -46,3 +46,8 @@ Atlikti pataisymai tarp papildymų:
 # 0.3V
 
 0.3 versijoje sėkmingai įdiegtas exception handlingas - jei blogai įvesta raidė ar skaičius, kompiuteris praneša, jog įvestis buvo bloga, tas pats veikia su failo skaitymu - jei failas nenuskaitomas, nes jo neranda, tai kompiuteris praneša, jog tokio failo nėra sistemoje. Nega to, visos funkcijos yra išskaidytos į .cpp ir header .h failus, o programos veikimas nuo to nepasikeitė.
+
+
+# 1.0V
+
+LIST ir VECTOR konteineriai dabar yra rūšiuojami 2 strategijomis. Veikia ir visos senesnėse versijose buvusios galimybės. Pateikta v1.0 vektoriu vs list 1 ir 2 strategiju analizė.
